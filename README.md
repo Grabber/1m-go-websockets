@@ -1,5 +1,5 @@
 # Going Infinite, handling 1M websockets connections in Go
-Nothing fancy, this repository holds the complete implementation of the examples seen in Gophercon Israel talk, 2019.
+This repository holds the complete implementation of the examples seen in Gophercon Israel talk, 2019.
 
 # Usage
 This repository demonstrates how a very high scale number of websockets connections can be maintained in Linux
